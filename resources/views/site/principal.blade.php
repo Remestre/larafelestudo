@@ -3,13 +3,13 @@
 @section('titulo', $titulo)
 
 @section('conteudo')
-    
+    teste
 
     <div class="conteudo-destaque">
     
         <div class="esquerda">
             <div class="informacoes">
-                <h1>Sistema Super Gestão</h1>
+                <h1>testeSistema Super Gestão</h1>
                 <p>Software para gestão empresarial ideal para sua empresa.<p>
                 <div class="chamada">
                     <img src="{{ asset('img/check.png') }}">
